@@ -1,0 +1,7 @@
+GitHub is a web-based platform that uses Git for version control and provides a suite of tools for software development. It allows developers to host, manage, and collaborate on code repositories. 
+•	Repository Hosting: GitHub hosts Git repositories, making it easy for teams and individuals to store, manage, and collaborate on code.
+•	Collaboration Tools: Features like pull requests, issues, and discussions facilitate collaboration, code reviews, and project management.
+•	Automation: GitHub Actions allows you to automate workflows such as continuous integration (CI) and continuous deployment (CD).
+•	Project Management: Tools like project boards and wikis help in organizing and documenting your work.
+What is a Repository?
+A repository (or repo) on GitHub is a storage location for your project’s files and its version history. It serves as the fundamental unit for organizing and managing your code and related resources.
